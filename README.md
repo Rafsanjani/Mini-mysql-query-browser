@@ -1,2 +1,2 @@
-# Mini-mysql-query-browser
-A Minimalistic mysql query browser
+# A MINI MYSQL QUERY BROWSER
+A Minimalistic mysql query browser working on just localhost and port 3306.  
