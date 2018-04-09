@@ -1,0 +1,4 @@
+miniquerybrowser.methods.InvalidOperationException
+miniquerybrowser.methods.WrongQueryException
+miniquerybrowser.methods.InvalidCredentialsException
+miniquerybrowser.methods.ServerNotFoundException
